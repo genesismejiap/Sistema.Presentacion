@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Windows.Forms; // Asegúrate de que este espacio de nombres esté correcto
+using System.Windows.Forms; 
 
 namespace Sistema.Presentacion
 {
