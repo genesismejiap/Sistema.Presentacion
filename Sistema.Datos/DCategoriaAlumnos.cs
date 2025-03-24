@@ -9,6 +9,8 @@ using Sistema.Entidades;
 
 namespace Sistema.Datos
 {
+  
+    /// CATEGORIA
     public class DCategoriaAlumnos
     {
         public DataTable Listar()
