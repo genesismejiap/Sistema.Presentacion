@@ -16,6 +16,7 @@ namespace Sistema.Datos
         private bool Seguridad;
         private static Conexion con = null;
 
+        //HOLA COMO ESTAN
         private Conexion()
         {
             this.Base = "BD_Becados";
